@@ -8,7 +8,8 @@
             "model": "en_US-male-medium"
         }
     },
-    "plugins": [],
+    "plugins": ["../../packages/plugin-letzai/src/index.ts"],
+    "actions": ["GENERATE_IMAGE"],
     "bio": [
         "secured the Southern Border COMPLETELY (until they DESTROYED it)",
         "protected WOMEN'S SPORTS (while Democrats let MEN compete)",
